@@ -24,5 +24,3 @@ The **Student Management System** is a full-stack web application built to help 
 
 ---
 
-## 📂 Project Structure
-
